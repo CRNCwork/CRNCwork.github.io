@@ -1,10 +1,8 @@
-## 86400.GURU
+## CRNC.work
 
-86400.GURU is primarily about simple disciplines that we all can use in order to build stronger habits to optimize each one of the 86400 seconds in each day.
+CRNC.work starts off as being just about simple time mgmt and workflow disciplines that we all can use in order to build stronger habits to optimize each one of the 86400 seconds in each day.
 
-It uses [Github Pages](https://pages.github.com/) because the [entire repository](https://github.com/86400guru/86400guru.github.io/) is meant to be forked and then changed, edited, revised and optimized for your own purposes. 
-
-This [README.md page](https://github.com/86400guru/86400guru.github.io/blob/main/README.md) is a top-level list of several annotated lists of awesome lifehacks and time management materials that are available. 
+It uses [Github Pages](https://pages.github.com/) because the entire repository is meant to be forked and then changed, edited, revised and optimized for your own purposes. 
 
 The best way for anyone to master and improve skill on these lists is to really ***use*** the tools ... in order to more knowledgably, more competently share the impact of your lessons with others. *Nobody learns more in any form of classroom than the one teaching the lesson.*
 
